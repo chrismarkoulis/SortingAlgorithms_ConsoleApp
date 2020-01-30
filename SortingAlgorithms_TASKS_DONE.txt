@@ -1,0 +1,29 @@
+
+(Sorting Algorithms)
+	
+TASKS DONE:
+
+	- Quick  Sort Implementation                               
+	- Bubble Sort Implementation                               
+	- Bucket Sort Implementation                               
+	- Produced at least (40) TShirts with various 		   
+          Colors, Sizes and Fabrics 
+
+	- Sorted Tshirts based on:
+		1. Size in ascending  				   
+		2. Size in descending                              
+		3. Color in ascending                             
+		4. Color in descending                            
+		5. Fabric in ascending                             
+		6. Fabric in descending                            
+		7. Size and Color and Fabric in ascending          
+		8. Size and Color and Fabric in descending         
+
+                              
+**** could not implement bucket sort due to 
+             exception in method 'bucketSortUtil' , class 'Sort'
+
+**** could not implement Size and Color and Fabric in ascending/descending
+	
+
+					            
